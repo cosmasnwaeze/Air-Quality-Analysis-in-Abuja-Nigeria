@@ -1,9 +1,6 @@
 # Air-Quality-Analysis-in-Abuja-Nigeria
 Air Quality Analysis in Abuja, Nigeria using autoregression model for predicting PM2.5 readings an tuning hyperparameters to improve predictive accuracy
 
-
-# Air Quality Analysis in Abuja, Nigeria
-
 ![Air Qaulity](https://i.postimg.cc/TY4L04Dg/AIR-QALTY.png)
 
 ## Introduction
